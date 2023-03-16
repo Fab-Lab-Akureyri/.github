@@ -1,6 +1,6 @@
 ## 👋 Verið velkomin á GitHub síðu Fab Lab Akureyrar 👋
 
-🙋‍♀️ Fab Lab Akureyri er stafræn smiðja, starfrækt á Akureyri. Smiðjan er opin almenningi og fyrirtækjum, nær og fær. Nánari upplýsingar um smiðjuna má finna á https://www.fla.is. 
+🙋‍♀️ Fab Lab er stafræn smiðja, starfrækt á Akureyri. Smiðjan er opin almenningi og fyrirtækjum og er öllum velkomið að nýta aðstöðuna. Nánari upplýsingar um smiðjuna má finna á https://www.fla.is. 
 
 🌈 Hér höldum við úti ýmsum gagnahirslum (e. repositories), s.s. leiðbeiningum fyrir tækjabúnað smiðjunnar, kennsluefni, áhugaverðum verkefnum og fleiru.
 
